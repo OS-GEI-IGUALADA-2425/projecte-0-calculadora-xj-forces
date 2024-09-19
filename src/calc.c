@@ -9,3 +9,7 @@ double suma(double a, double b) {
 double resta(double a, double b) {
     return a - b;
 }
+
+double multiplicacio(double a, double b) {
+    return a * b;
+}
