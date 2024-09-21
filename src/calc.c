@@ -13,3 +13,8 @@ double resta(double a, double b) {
 double multiplicacio(double a, double b) {
     return a * b;
 }
+
+double divisio(double a, double b)
+{
+    return a / b;
+}
