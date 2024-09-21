@@ -97,8 +97,8 @@ int main(int argc, char *argv[]) {
                     printf("No es pot calcular l'arrel quadrada d'un número negatiu!\n");
                     return 1;
                 }
-                //printf("Resultat de l'arrel quadrada: %.2f\n", arrel(num1));
-                printf("Not implemented yet!\n");
+                printf("Resultat de l'arrel quadrada: %.2f\n", arrel(num1));
+                //printf("Not implemented yet!\n");
                 break;
 
             case 'p':

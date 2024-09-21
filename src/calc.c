@@ -18,3 +18,8 @@ double divisio(double a, double b)
 {
     return a / b;
 }
+
+double arrel(double a)
+{
+    return sqrt(a);
+}
