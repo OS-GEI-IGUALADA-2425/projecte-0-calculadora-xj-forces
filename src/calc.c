@@ -23,3 +23,8 @@ double arrel(double a)
 {
     return sqrt(a);
 }
+
+double potencia(double a, double b)
+{
+    return pow(a,b);
+}
